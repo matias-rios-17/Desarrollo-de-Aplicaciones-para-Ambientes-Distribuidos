@@ -35,4 +35,8 @@ java Cliente
 ```
 
 ## Capturas
+<img width="1042" height="110" alt="Captura de pantalla 2026-08-20 215815" src="https://github.com/user-attachments/assets/1771f26c-f65c-4b0f-988b-82aaf04e2852" />
 
+<img width="1007" height="107" alt="Captura de pantalla 2026-08-20 215726" src="https://github.com/user-attachments/assets/f18fa1f7-96a9-48de-8a71-12ef5470c5cd" />
+
+<img width="1024" height="307" alt="Captura de pantalla 2026-08-20 215231" src="https://github.com/user-attachments/assets/fd92bbe8-48fd-41fc-93dd-532c93074710" />
