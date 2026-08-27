@@ -35,3 +35,7 @@ Un **fallo permanente** es un problema que no se soluciona simplemente esperando
 **Ejemplo:** un cliente intenta conectarse a un servidor utilizando una dirección IP o un puerto incorrecto. Realizar nuevos intentos con la misma configuración no solucionará el problema.
 
 Por lo tanto, los mecanismos de reintento son especialmente útiles frente a fallos transitorios, mientras que ante fallos permanentes es necesario corregir la causa del error.
+
+CAPTURAS 
+
+
