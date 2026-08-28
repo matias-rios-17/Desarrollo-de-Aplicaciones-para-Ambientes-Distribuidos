@@ -40,3 +40,4 @@ CAPTURAS
 
 <img width="1236" height="153" alt="Captura de pantalla 2026-08-27 190453" src="https://github.com/user-attachments/assets/2f78ec66-a26a-4615-8597-0ca0c13e6ce8" />
 
+<img width="1373" height="327" alt="Captura de pantalla 2026-08-27 184853" src="https://github.com/user-attachments/assets/c9233a75-cbe3-49d7-a31f-b0f52791e939" />
