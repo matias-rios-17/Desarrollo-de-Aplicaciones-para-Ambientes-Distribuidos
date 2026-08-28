@@ -38,4 +38,5 @@ Por lo tanto, los mecanismos de reintento son especialmente útiles frente a fal
 
 CAPTURAS 
 
+<img width="1236" height="153" alt="Captura de pantalla 2026-08-27 190453" src="https://github.com/user-attachments/assets/2f78ec66-a26a-4615-8597-0ca0c13e6ce8" />
 
