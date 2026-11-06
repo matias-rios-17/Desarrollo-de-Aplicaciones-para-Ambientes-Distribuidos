@@ -36,3 +36,11 @@ java Cliente
 
 ## Capturas
 
+
+### Cliente
+
+![Cliente](img/captura1.png)
+
+### Servidor
+
+![Servidor](img/captura2.png)
