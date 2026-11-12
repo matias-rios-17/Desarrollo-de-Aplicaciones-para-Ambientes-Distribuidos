@@ -1,0 +1,6 @@
+out/
+*.class
+
+# Claves privadas y certificados (se generan con generar-certificado.bat)
+certificados/*.p12
+certificados/*.cer
